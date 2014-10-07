@@ -69,7 +69,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'GMT+1'
+TIME_ZONE = 'GMT+2'
 
 USE_I18N = True
 
