@@ -12,3 +12,5 @@ Push mortal forzado
 >y lo sigues flipando
 
 Feature5 included
+
+Release 1.0 prepared
