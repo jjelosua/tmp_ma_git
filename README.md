@@ -10,3 +10,7 @@ Push mortal forzado
 
 >Lo flipas
 >y lo sigues flipando
+
+Feature5 included
+
+Release 1.0 prepared
